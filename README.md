@@ -20,7 +20,8 @@ https://www.thedigitalcatonline.com/blog/2020/07/05/flask-project-setup-tdd-dock
 ***
 ## Log
 
-|     |     |     |
-| --- | --- | --- |
+|     |     |
+| --- | --- |
 | **Date** | **Description** |
 | 14 Sep 2020 | Start project, inital commit |
+| 15 Sep 2020 | Commit at the end of step 3. Its doesnt quite work i still need to use FLASK_CONFIG="development". Going to go through it with Steve|

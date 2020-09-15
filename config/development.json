@@ -1,0 +1,6 @@
+[
+  {
+    "name": "FLASK_ENV",
+    "value": "development"
+  }
+]
