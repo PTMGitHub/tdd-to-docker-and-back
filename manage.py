@@ -22,6 +22,7 @@ with open(os.path.join("config", config_json_filename)) as f:
 
 # Convert the config into a usable Python dictionary
 config = dict((i["name"], i["value"]) for i in config)
+print(config)
 
 for key, value in config.items():
     setenv(key, value)
