@@ -22,7 +22,7 @@ https://www.thedigitalcatonline.com/blog/2020/07/05/flask-project-setup-tdd-dock
 | 15 Sep 2020 | Commit at the end of step 3. Its doesnt quite work i still need to use FLASK_CONFIG="development". Going to go through it with Steve|
 | 15 Sep 2020 | 2nd Commit of the day - End of Step 3 - Working. Discussed with Steve and both concluded FLASK_CONFIG should be set in the development.json|
 | 21 Sep 2020 | Completed the first tutorial.|
-
+| 22 Sep 2020 | Start Part 2 tutorial. Completed to end of step 2|
 ***
 ## Tutorial Notes
 **NB:** <span style="color:green">Text in green are additional notes I have added</span>
